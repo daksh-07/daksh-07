@@ -100,9 +100,13 @@ Performance marketing and automation agency focused on helping businesses genera
 - Website Development
 - Sales & Follow-up Automation
 
+🌐 **Website:** [everestmarketing.com.au](https://everestmarketing.com.au)
+
 ### Sydney Prime Detailing
 
 A real-world detailing business where I learned sales, customer acquisition, operations and running a service business from the ground up.
+
+🌐 **Website:** *Sydney Prime Detailing website*
 
 ---
 
