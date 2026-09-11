@@ -84,14 +84,6 @@ A real-world detailing business where I learned sales, customer acquisition, ope
 
 ---
 
-## 📊 GitHub Stats
-
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh-07&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daksh-07&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daksh-07)
