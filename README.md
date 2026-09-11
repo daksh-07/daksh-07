@@ -35,6 +35,11 @@ Currently building **Everest Digital** — helping businesses generate more lead
 ### 🤖 AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 📈 Marketing
@@ -53,14 +58,14 @@ Marketing
    ↓
 Leads
    ↓
-Automation
+AI + Automation
    ↓
 Sales
    ↓
 Growth
 ```
 
-I like combining **marketing + technology + automation** to build systems that actually produce business results.
+I like combining **marketing + technology + AI + automation** to build systems that actually produce business results.
 
 ---
 
