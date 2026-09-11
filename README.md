@@ -44,8 +44,15 @@ Currently building **Everest Digital** — helping businesses generate more lead
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-000000?style=for-the-badge)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0F172A?style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 📊 CRM & Business Systems
+
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0F172A?style=for-the-badge)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
+![Pipedrive](https://img.shields.io/badge/Pipedrive-1A1A1A?style=for-the-badge&logo=pipedrive&logoColor=white)
 
 ### 📈 Marketing
 
@@ -62,6 +69,8 @@ Business
 Marketing
    ↓
 Leads
+   ↓
+CRM
    ↓
 AI + Automation
    ↓
