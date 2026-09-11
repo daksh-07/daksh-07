@@ -108,6 +108,22 @@ A real-world detailing business where I learned sales, customer acquisition, ope
 
 🌐 **Website:** [sydney-prime-detailing.netlify.app](https://sydney-prime-detailing.netlify.app)
 
+### 🎮 Whatever — AI Business Simulator
+
+A public browser-based business simulation game built as a playground for experimenting with **business strategy, decision-making, game mechanics and AI-powered ideas**.
+
+**Features:**
+- Build and manage a virtual business
+- Make decisions that affect growth and cash flow
+- Random business events and challenges
+- 30-day business simulation
+- Mobile-friendly gameplay
+- No login or API key required
+
+🎮 **Play:** [whatever-sooty-gamma.vercel.app](https://whatever-sooty-gamma.vercel.app/)
+
+💻 **Repository:** [github.com/daksh-07/Whatever](https://github.com/daksh-07/Whatever)
+
 ---
 
 ## 📫 Let's Connect
