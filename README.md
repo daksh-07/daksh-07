@@ -10,7 +10,7 @@ Currently building **Everest Digital** — helping businesses generate more lead
 
 ## 🧠 What I'm Working On
 
-- 🚀 Building **Everest Digital**
+- 🚀 Building **Everest Marketing**
 - 🤖 AI & business automation
 - 📈 Meta Ads & Google Ads
 - 🌐 High-converting websites
