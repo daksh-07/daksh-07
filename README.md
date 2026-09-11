@@ -51,13 +51,15 @@ Currently building **Everest Digital** — helping businesses generate more lead
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0F172A?style=for-the-badge)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
-![Pipedrive](https://img.shields.io/badge/Pipedrive-1A1A1A?style=for-the-badge&logo=pipedrive&logoColor=white)
+![Zoho CRM](https://img.shields.io/badge/Zoho%20CRM-C8202F?style=for-the-badge)
+![Pipedrive](https://img.shields.io/badge/Pipedrive-017737?style=for-the-badge)
 
-### 📈 Marketing
+### 📈 Performance Marketing
 
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ---
 
@@ -66,9 +68,9 @@ Currently building **Everest Digital** — helping businesses generate more lead
 ```text
 Business
    ↓
-Marketing
+Performance Marketing
    ↓
-Leads
+Lead Generation
    ↓
 CRM
    ↓
@@ -79,7 +81,7 @@ Sales
 Growth
 ```
 
-I like combining **marketing + technology + AI + automation** to build systems that actually produce business results.
+I combine **performance marketing, technology, AI, CRM and automation** to build systems designed to generate and convert business opportunities.
 
 ---
 
@@ -92,10 +94,11 @@ Performance marketing and automation agency focused on helping businesses genera
 **Services:**
 - Meta Ads
 - Google Ads
-- CRM
+- CRM Systems
 - AI Automation
 - Lead Generation
 - Website Development
+- Sales & Follow-up Automation
 
 ### Sydney Prime Detailing
 
@@ -109,6 +112,6 @@ A real-world detailing business where I learned sales, customer acquisition, ope
 
 ---
 
-### ⚡ Build. Test. Learn. Repeat.
+### ⚡ Build. Test. Scale.
 
-> I'm not trying to just learn technology — I'm trying to use it to build businesses.
+> I don't just build technology — I build systems that turn attention into leads, leads into customers, and customers into growth.
